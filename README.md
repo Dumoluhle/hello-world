@@ -1,2 +1,5 @@
 # hello-world
-my new repository
+
+Hi Humans
+
+Dumoe here,am an aspiring software developer.
